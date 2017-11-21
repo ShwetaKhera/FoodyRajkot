@@ -1,0 +1,279 @@
+body{
+
+  height: 100%;
+  margin: 0px;
+  font-family: "Roboto", sans-serif;
+}
+
+div{
+  display:block;
+}
+
+.head{
+  margin-top: 0%;
+  width: 100%;
+  padding: 0 1.5rem;
+  height:60px;
+  margin-left: 0%;
+  background: green;
+  margin-left: 0px;
+  padding-top: 0px
+}
+
+.name{
+  position: absolute;
+  display: inline-block;
+  width:53%;
+  float: left;
+  text-align: center;
+  text-transform: full-width;
+  font-size: 30px;
+  color: #ffffff;
+  font-weight: bold;
+  padding-top: 0px;
+  margin-top: 0px;
+  top:0px
+
+}
+
+.row{
+  display: inline-block;
+  float: right;
+  height: 60px;
+  width:38%;
+  font-size: 20px;
+  color: #ffffff;
+  margin-top: 0px;
+}
+
+.navig{
+  position: absolute;
+  right: 40px;
+
+}
+
+a{
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.col-sm-3 a{
+  text-decoration: none;
+}
+
+.well{
+
+  background: green;
+  display: inline-block;
+  border: 0px;
+  max-height: 100%;
+  text-decoration: none;
+  text-align: center;
+}
+
+.well:hover{
+  background: gray;
+  height: 100%;
+}
+
+.container-info{
+  background: #6bdb8b;
+  padding-bottom: 10px;
+  height: 50px;
+  padding-top: 10px;
+}
+
+.buy{
+  font-size: 20px;
+  text-align:center;
+  font-family: 'Pangolin', cursive;
+}
+
+.container-middle{
+  width:100%;
+  height:100%;
+  background-image: url("cook-366875_960_720.jpg");
+  display: block;
+}
+
+.sidebar{
+  width:18%;
+  color: #4770d1;
+  text-align: center;
+  display: inline-block;
+  float: left;
+  overflow: scroll;
+  height: 1170px;
+  overflow-x: hidden;
+  background: #4CAF50;
+
+
+}
+.listfont a:hover
+{
+  background: #cccccc;
+}
+
+.listfont a{
+  font-family: 'Arvo', serif;
+  color: #051530;
+  background: lightgray;
+  text-align: center;
+  padding-top: 10px;
+  font-size: 20px
+}
+
+.list-group-item-heading{
+  padding-top: 18px;
+  color: #ffffff;
+  padding-bottom: 10p
+  background: #4CAF50;
+  height: 45px
+}
+
+.mid{
+  width:82%;
+  background-image: url("cook-366875_960_720.jpg");
+  height: 540px;
+  display: inline-block;
+  float: right;
+}
+
+.image{
+  background-image: url("cook-366875_960_720.jpg");
+  height: 100%;
+}
+
+.detailpic1{
+  width:28%;
+  font-size: 35px;
+  display:inline-block;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  margin-top: 150px
+}
+
+.detailpic2{
+  width:40%;
+  font-size: 35px;
+  display: inline-block;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  margin-top: 150px
+}
+
+.detailpic3{
+  width:28%;
+  font-size: 35px;
+  display: inline-block;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  margin-top: 150px
+}
+
+.row{
+  float: left;
+
+}
+
+.col-md-3{
+  width:25%;
+  float: left;
+  max-height: 20px
+}
+
+.caption{
+  background: lightgray;
+  margin-left:-5px;
+  margin-bottom:-5px;
+  width:104%;
+  text-align:center;
+  
+}
+.caption:hover
+{
+	text-decoration:none;
+}
+
+.image-gallery{
+  width:98%;
+  height:300px;
+  margin-left: 10px;
+}
+
+.trending{
+  background: #ffffff;
+  max-height: 50px;
+  width: 98%;
+  font-size: 30px;
+  padding-top: 10px;
+  margin-bottom: 10px;
+  font-family: 'Pangolin', cursive;
+  margin-left: 15px;
+  display: block;
+}
+
+.footer{
+
+  width:100%;
+  position: absolute;
+  background: gray;
+  height: 100px;
+  top:1300px;
+  left:0px;
+  text-align: center;
+  padding-top: 20px
+}
+
+.fa{
+  padding-left: 50px;
+  margin-top:15px
+}
+
+.form-horizontal{
+  margin-top: 30px
+}
+
+.form-group{
+  padding-top: 60px;
+  vertical-align: middlle;
+}
+
+.address
+{
+  height: 100px;
+  width: 700px;
+}
+
+.footer_reg{
+  width:100%;
+  position: absolute;
+  background: gray;
+  height: 100px;
+  top:800px;
+  left:0px;
+  text-align: center;
+  padding-top: 20px
+}
+
+.login{
+  width: 100%;
+}
+
+.forget{
+    color: blue;
+}
+
+.footer_log{
+  width:100%;
+  position: absolute;
+  background: gray;
+  height: 100px;
+  top:673px;
+  left:0px;
+  text-align: center;
+  padding-top: 20px
+}
